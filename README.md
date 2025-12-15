@@ -1,7 +1,7 @@
 # College Major Data Exploration (Pandas)
 
 ## Overview
-This project performs exploratory data analysis (EDA) on a dataset related to **college majors**, using Python and Pandas.  
+This project performs exploratory data analysis (EDA) on a dataset related to **college majors**, using a Jupyter Notebook.  
 The notebook walks through loading data, cleaning it, performing analysis, and generating insights such as:
 
 - Salary variations across majors  
